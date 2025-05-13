@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{155DEA42-F8F9-4CDB-800B-A1214FFC1AB5}|Default">
-  <MonoDevelop.Ide.ItemProperties.-The-Series-Analyzer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.-The-Series-Analyzer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="-The-Series-Analyzer/Program.cs">
+    <Files>
+      <File FileName="-The-Series-Analyzer/Program.cs" Line="4" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="-The-Series-Analyzer " expanded="True">
+            <Node name="-The-Series-Analyzer">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>
